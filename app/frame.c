@@ -13,6 +13,7 @@
 static struct dvi_inst dvi0;
 static uint16_t framebuf[FRAME_WIDTH * 2];
 
+// This looks like a good place to start with changing the color?
 #define COLOR_BG 0xFC00
 #define COLOR_FG 0x0000
 
